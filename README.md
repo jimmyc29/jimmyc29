@@ -1,5 +1,5 @@
 # 👋 ¡Hola a todos! Soy Jimmy
----
+
 ### 👨‍💻 Acerca de mí
 
 Soy un apasionado estudiante de **Ingeniería en Sistemas** en **Universidad Mariano Gálvez de Guatemala**. Actualmente estoy cursando el **Segundo año** y siempre estoy buscando aprender cosas nuevas y mejorar mis habilidades en el desarrollo de software.

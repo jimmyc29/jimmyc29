@@ -22,7 +22,7 @@ Hasta ahora, he tenido la oportunidad de trabajar con los siguientes lenguajes d
 Aquí tienes una muestra de algunos mini proyectos en los que he estado involucrado:
 
 * **Sistema Gestor de Pedidos** (Desarrollado en **C#**): Una aplicación básica para gestionar los pedidos de un punto de venta, diseñado para Windows.
-* **Sistema Gestor de Ventas** (Desarrollado en **C#]**): Una aplicación para gestionar ventas, empleados, clientes e inventario de un punto de venta, diseñado para Windows.
+* **Sistema Gestor de Ventas** (Desarrollado en **C#**): Una aplicación para gestionar ventas, empleados, clientes e inventario de un punto de venta, diseñado para Windows.
 
 ---
 
